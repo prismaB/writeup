@@ -1,21 +1,36 @@
-https://tryhackme.com/room/decodeay room offical writeup room owner https://tryhackme.com/p/prisma
-
-NOTE=Use Cyberchef
-[TASK 1]-Basi BAKE!
-
-1-
-
-Zmlyc3RibG9vZA==
-
-BAKE !
-
-base64 decode
--
-2-
+task 1 =
+NOTE = Use CyberChef
 
 
-FjJjQJqW
+1-base64 decode
 
-BAKE !
- base62 decode
- 
+
+
+
+2-base62 decode
+
+
+3-rot13 decode
+
+4-base32 decode
+[TASK-2]
+
+5-hex decode
+
+6-Morse code decode
+
+7-binary decode
+
+8-rot47 decode
+
+[task-3]
+
+all hash is not salted
+
+use crackstation and hashes.com vb...
+
+1-sha1 crack
+
+2-sha256 crack
+
+3-sha512 crack
